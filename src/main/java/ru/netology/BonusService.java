@@ -1,3 +1,5 @@
+package ru.netology;
+
 public class BonusService {
     public int calculateBonus(int amount) {
         if (amount < 1000) {
