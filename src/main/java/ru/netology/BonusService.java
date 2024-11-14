@@ -12,9 +12,10 @@ public class BonusService {
         if(bonus> 100) {
             return 100;
         }
+
         return bonus;
 
-        System.out.println(bonus);
+
 
 
 
